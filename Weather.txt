@@ -1,2 +1,3 @@
 Weather of major cities
 Deroit, MI is 76 degrees F
+San Jose, CA is 82 degrees F
