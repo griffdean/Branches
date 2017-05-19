@@ -1,1 +1,2 @@
 Weather of major cities
+Deroit, MI is 76 degrees F
