@@ -3,3 +3,4 @@ Deroit, MI is 76 degrees F
 San Jose, CA is 82 degrees F
 New York City is 52 degrees F
 Kansas City is 65 degrees F
+Boston is 65 degrees F
